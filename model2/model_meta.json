@@ -1,0 +1,1 @@
+{"inputUnits":[1],"outputUnits":1,"inputs":{"0":{"dtype":"number","min":85.5861899085368,"max":1188.3566283812227}},"outputs":{"billions":{"dtype":"number","min":15.3,"max":45.67}},"isNormalized":true}

@@ -1,0 +1,98 @@
+Country,demIndex,regimeType,militaryExp,safeCity,facialRec,smartPoli,smSurv,totalTech,govSMSurv
+United States of America,0.82,LD,648798.3,x,x,x,x,4,-0.354
+China,0.08,CA,249996.9,x,x,x,x,4,3.066
+Saudi Arabia,0.02,CA,67554.7,x,x,x,x,4,3.327
+India,0.44,EA,66510.3,x,x,x,x,4,0.697
+France,0.87,LD,63799.7,x,x,x,x,4,-1.16
+Russia,0.26,EA,61387.5,x,x,x,x,4,1.527
+United Kingdom,0.86,LD,49997.2,x,x,x,x,4,-0.927
+Germany,0.87,LD,49470.6,x,x,x,x,4,-0.71
+Japan,0.84,LD,46618.0,N,x,x,N,2,-1.598
+South Korea,0.86,LD,43070.0,x,x,x,x,4,-1.598
+Italy,0.85,LD,27807.5,x,x,x,x,4,-2.056
+Brazil,0.66,ED,27766.4,x,x,x,x,4,0.001
+Australia,0.85,LD,26711.8,x,x,x,x,4,-1.481
+Canada,0.86,LD,21620.6,N,x,x,x,3,-1.605
+Turkey,0.28,EA,18967.1,x,x,x,x,4,0.583
+Spain,0.86,LD,18248.3,x,x,x,N,3,-1.388
+Israel,0.74,LD,15946.8,x,x,x,x,4,1.006
+Iran,0.18,EA,13194.2,x,x,x,x,4,1.893
+Pakistan,0.36,EA,11375.5,x,x,x,x,4,1.26
+Netherlands,0.86,LD,11242.8,x,x,x,N,3,-1.152
+Singapore,0.40,EA,10841.0,x,x,x,N,3,1.195
+Taiwan,0.81,LD,10713.7,N,x,N,N,1,-0.256
+Colombia,0.65,ED,10602.9,x,x,x,N,3,2.351
+Algeria,0.28,EA,9583.7,N,N,x,N,1,2.14
+Indonesia,0.59,ED,7437.2,x,x,x,x,4,0.691
+Thailand,0.20,CA,6829.2,x,x,N,x,3,1.243
+Mexico,0.63,ED,6567.5,x,x,x,N,3,-0.367
+Iraq,0.37,EA,6318.0,x,x,N,N,2,0.121
+Chile,0.83,LD,5570.7,N,x,x,N,2,-1.34
+Vietnam,0.22,CA,5500,N,N,N,x,1,1.522
+Switzerland,0.89,LD,4795.8,x,x,N,N,2,-1.975
+Ukraine,0.52,ED,4750.2,x,x,N,N,2,0.405
+Romania,0.78,ED,4608.7,N,x,x,N,2,-1.019
+Denmark,0.91,LD,4228.2,x,x,x,N,3,-2.096
+Argentina,0.82,ED,4145.0,N,x,x,x,3,-0.507
+Bangladesh,0.27,EA,3894.7,x,x,x,x,4,2.44
+Philippines,0.43,EA,3769.7,x,x,x,x,4,1.369
+Morocco,0.26,CA,3696.9,x,x,x,x,4,0.838
+South Africa,0.72,ED,3639.9,x,x,x,x,4,-0.901
+Malaysia,0.41,EA,3469.8,x,x,x,x,4,0.266
+Egypt,0.18,EA,3110.0,N,x,x,x,3,1.254
+Lebanon,0.46,EA,2775.6,x,N,x,N,2,0.857
+Czech Republic,0.81,ED,2710.0,N,x,x,N,2,-1.164
+Peru,0.76,ED,2708.9,N,x,x,N,2,-2.018
+Ecuador,0.64,ED,2549.4,x,x,x,N,3,0.531
+New Zealand,0.89,LD,2262.9,N,x,x,N,2,-1.049
+Burma/Myanmar,0.13,CA,2030.5,x,x,N,N,2,2.34
+Hungary,0.46,EA,1642.3,N,x,N,x,2,-0.489
+Kazakhstan,0.26,EA,1613.6,x,x,x,x,4,0.779
+Bahrain,0.12,CA,1396.8,N,x,x,x,3,1.769
+Uruguay,0.84,LD,1168.1,x,x,x,N,3,-1.767
+Kenya,0.47,EA,1097.5,x,x,x,x,4,0.696
+Serbia,0.34,EA,904.3,x,x,x,N,3,0.396
+Bolivia,0.62,ED,618.8,x,x,x,N,3,0.164
+Ivory Coast,0.43,EA,607.8,x,N,N,N,1,1.503
+Cambodia,0.20,EA,543.2,N,N,N,x,1,1.027
+Botswana,0.60,LD,529.5,x,N,x,N,2,-2.322
+Namibia,0.63,ED,451.5,N,x,x,N,2,0.25
+Zimbabwe,0.28,EA,420.4,N,x,x,N,2,1.153
+Uganda,0.28,EA,408.4,x,x,N,x,3,0.884
+Paraguay,0.57,ED,386.6,N,x,N,N,1,-1.741
+Zambia,0.38,EA,378.0,x,x,N,N,2,1.405
+Georgia,0.65,ED,316.5,x,x,x,N,3,0.057
+Ghana,0.66,ED,218.4,x,N,x,N,2,-0.93
+Jamaica,0.81,ED,207.8,N,x,x,N,2,0.025
+Kyrgyzstan,0.42,EA,121.2,x,x,x,N,3,-0.406
+Mongolia,0.63,ED,96.1,N,x,x,N,2,-1.387
+Malta,0.78,ED,69.3,x,x,x,N,3,0.028
+Mauritius,0.59,ED,23.2,x,N,x,N,2,1.403
+Panama,0.75,ED,0.0,x,x,x,N,3,-1.294
+Hong Kong,0.27,CA,0.0,N,x,x,x,3,0.069
+Laos,0.13,CA,0.0,x,N,x,N,2,1.451
+North Korea,0.09,CA,0.0,N,x,N,N,1,3.689
+Qatar,0.07,CA,0.0,x,x,x,N,3,2.95
+United Arab Emirates,0.10,CA,0.0,x,x,x,x,4,2.125
+Uzbekistan,0.22,CA,0.0,x,x,N,N,2,1.5
+Angola,0.35,EA,0.0,x,N,N,N,1,0.129
+Belarus,0.18,EA,0.0,N,x,x,N,2,2.235
+Cameroon,0.30,EA,0.0,x,N,N,N,1,0.746
+Madagascar,0.48,EA,0.0,x,N,N,N,1,0.862
+Nigeria,0.49,EA,0.0,x,N,N,x,2,-0.017
+Papua New Guinea,0.43,EA,0.0,x,N,N,N,1,-0.723
+Tajikistan,0.18,EA,0.0,x,x,N,x,3,1.156
+Tunisia,0.56,EA,0.0,x,N,N,N,1,-1.593
+Venezuela,0.22,EA,0.0,N,x,N,N,1,2.807
+Armenia,0.74,ED,0.0,x,N,N,N,1,-0.72
+Austria,0.83,ED,0.0,N,x,x,N,2,-0.957
+Bosnia and Herzegovina,0.53,ED,0.0,x,N,N,N,1,-1.334
+Croatia,0.75,ED,0.0,N,x,x,N,2,-0.961
+Dominican Republic,0.68,ED,0.0,N,x,N,N,1,-0.977
+Moldova,0.74,ED,0.0,x,N,N,N,1,-1.187
+Poland,0.59,ED,0.0,N,x,N,N,1,-0.696
+Slovenia,0.70,ED,0.0,N,N,x,N,1,-1.383
+Sri Lanka,0.57,ED,0.0,N,x,x,x,3,0.816
+Belgium,0.89,LD,0.0,N,x,x,N,2,-0.707
+Greece,0.80,LD,0.0,N,x,x,N,2,-1.53
+Sweden,0.91,LD,0.0,N,x,x,N,2,-2.885
